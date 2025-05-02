@@ -40,3 +40,15 @@ Dart
 intl package for date formatting
 Material Design components
 
+APP Insights
+![1](https://github.com/user-attachments/assets/622deb89-b4b5-4fc1-a7d3-9867361b57a1)
+![2](https://github.com/user-attachments/assets/5935a8da-9196-43cb-b942-48e3d84caf71)
+![2 2](https://github.com/user-attachments/assets/b7b3999e-15e4-4570-a0f0-767ec6a91c45)
+![3](https://github.com/user-attachments/assets/0e422abc-d896-4718-a513-f6ef0fe15145)
+![3 3](https://github.com/user-attachments/assets/24319f06-296b-416b-88e8-ccac6dd72490)
+![4](https://github.com/user-attachments/assets/33aef5f1-54f0-49e0-a7c4-ac4f5675dba4)
+![5](https://github.com/user-attachments/assets/6e110731-ef46-4cc5-baec-446b09d395a3)
+![6](https://github.com/user-attachments/assets/055c332b-dcb9-4ae6-9189-dd72a435a5bf)
+![7](https://github.com/user-attachments/assets/ae49fde8-f2ea-45ab-827e-ee5f6e5a8c57)
+![8](https://github.com/user-attachments/assets/34d2f885-c5ee-4b71-a3f5-1e281b681144)
+
